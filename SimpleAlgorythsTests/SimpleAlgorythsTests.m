@@ -10,6 +10,7 @@
 #import "QuickSort.h"
 #import "BubbleSort.h"
 #import "BinarySearch.h"
+#import "InsertionSort.h"
 
 @interface SimpleAlgorythsTests : XCTestCase
 
@@ -71,6 +72,24 @@
     int elementIndex = [binarySearch search:sorted from:0 to:[sorted count]-1 forElement:@21];
 
     NSLog(@"element 21 found at index: %d",elementIndex);
+
+}
+
+- (void)testInsertionSort {
+    NSLog(@"InsertionSort");
+    NSArray *unsorted = @[@1,@34,@4,@11,@15,@21,@7,@200,@32,@6,@7,@3,@2,@1];
+    InsertionSort *bubbleSort = [InsertionSort new];
+    NSArray *sorted = [bubbleSort sort:unsorted];
+
+    NSLog(@"unsorted:");
+    for(NSNumber *number in unsorted) {
+        NSLog(@"%d",[number intValue]);
+    }
+
+    NSLog(@"sorted:");
+    for(NSNumber *number in sorted) {
+        NSLog(@"%d", [number intValue]);
+    }
 
 }
 
