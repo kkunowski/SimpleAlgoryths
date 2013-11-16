@@ -27,8 +27,10 @@ O(n^2)
         // search element must be in right array so search only this array
         return [self search:array from:middleIndex+1 to:rightElementIndex forElement:searchElement];
     } else if([searchElement intValue] == [middleElement intValue]) {
+        // search element found
         return middleIndex;
     }
+    // this will never be return (added because compiler needs it :))
     return 0;
 }
 @end

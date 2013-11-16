@@ -23,28 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="QuickSort.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QuickSort.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="24" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearch.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BinarySearch.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="69" selection-start="1188" selection-end="1188" vertical-scroll-proportion="0.7894737" vertical-offset="0" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="BubbleSort.m" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BubbleSort.m">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="45" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="675">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinarySearch.m" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinarySearch.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="585">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuickSort.m" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/QuickSort.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="24" selection-start="956" selection-end="956" vertical-scroll-proportion="0.39473686" vertical-offset="345" max-vertical-offset="960">
               <folding />
             </state>
           </provider>
@@ -65,8 +65,8 @@
         <option value="$PROJECT_DIR$/BubbleSort.m" />
         <option value="$PROJECT_DIR$/BinarySearch.h" />
         <option value="$PROJECT_DIR$/SimpleAlgorythsTests/SimpleAlgorythsTests.m" />
-        <option value="$PROJECT_DIR$/BinarySearch.m" />
         <option value="$PROJECT_DIR$/QuickSort.m" />
+        <option value="$PROJECT_DIR$/BinarySearch.m" />
       </list>
     </option>
   </component>
@@ -180,8 +180,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorythms/algorythms.xcodeproj" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="SimpleAlgoryths,,,SimpleAlgorythsTests" />
   </component>
   <component name="RunManager" selected="XCTest/Kiwi.SimpleAlgorythmsTests">
@@ -280,6 +280,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/QuickSort.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="24" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearch.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BubbleSort.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="45" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BubbleSort.m">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="45" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="675">
@@ -332,13 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BubbleSort.m">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="45" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="675">
@@ -348,7 +362,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/QuickSort.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="24" selection-start="956" selection-end="956" vertical-scroll-proportion="0.39473686" vertical-offset="345" max-vertical-offset="960">
+        <state line="39" column="24" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearch.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="69" selection-start="1188" selection-end="1188" vertical-scroll-proportion="0.7894737" vertical-offset="0" max-vertical-offset="615">
           <folding />
         </state>
       </provider>
