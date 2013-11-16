@@ -37,7 +37,7 @@ O(n log n)
         while ([array[rightCursor] intValue] > [pivot intValue])
             rightCursor--;
 
-        // if cursor meets swap elements
+        // swap elements
         if (leftCursor <= rightCursor)
             [array exchangeObjectAtIndex:leftCursor++ withObjectAtIndex:rightCursor--];
     }
