@@ -14,6 +14,7 @@
 		52FA54238019D91943312132 /* QuickSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FA5B264B458F8EBFC41134 /* QuickSort.m */; };
 		52FA552467E40BB433B0F5CE /* QuickSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FA5B264B458F8EBFC41134 /* QuickSort.m */; };
 		52FA55419E1129EE7F0E8E8D /* InsertionSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FA58AA23D846FE2BED0909 /* InsertionSort.m */; };
+		52FA55EDB057CC927CAA9ABB /* SelectionSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FA5A2F3EBBF09952629B7A /* SelectionSort.m */; };
 		52FA56CA7AE1BF89AF064702 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52FA545C13933121A2893F35 /* InfoPlist.strings */; };
 		52FA579B22FBE1CA39DBC054 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FA527F01218D64285BCC38 /* AppDelegate.m */; };
 		52FA5858FF6C1FF75F00CC1C /* InsertionSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FA58AA23D846FE2BED0909 /* InsertionSort.m */; };
@@ -21,6 +22,7 @@
 		52FA59D2F57FCFE3874ED469 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52FA5E01ADF4625DD1EEB963 /* UIKit.framework */; };
 		52FA5AB587B6C0E5B3C672D3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52FA5BACC584C4FD1D169C25 /* Images.xcassets */; };
 		52FA5AD4A29C9AA69D2C2667 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52FA5E01ADF4625DD1EEB963 /* UIKit.framework */; };
+		52FA5B2A7FF73BDDDC76CECE /* SelectionSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FA5A2F3EBBF09952629B7A /* SelectionSort.m */; };
 		52FA5B807E7B2D8C2DB6AFF7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52FA5E55D044B388999F186E /* InfoPlist.strings */; };
 		52FA5CCF92CD1EAD17A71D7C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52FA5723F9D2789BBA39FA6F /* Foundation.framework */; };
 		52FA5D004D5466B8C769F4B1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FA567F9B6465DBAFE185BB /* main.m */; };
@@ -50,9 +52,11 @@
 		52FA5723F9D2789BBA39FA6F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		52FA57C6A0C8C2789D52F65C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		52FA58AA23D846FE2BED0909 /* InsertionSort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InsertionSort.m; sourceTree = "<group>"; };
+		52FA58EAF9D14799286047E8 /* SelectionSort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectionSort.h; sourceTree = "<group>"; };
 		52FA5978B3EB62B1A485D89D /* BinarySearch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BinarySearch.h; sourceTree = "<group>"; };
 		52FA59AA1732B17F78A9886B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		52FA59CD3C3C5B926DDF6A26 /* SimpleAlgoryths.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleAlgoryths.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52FA5A2F3EBBF09952629B7A /* SelectionSort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectionSort.m; sourceTree = "<group>"; };
 		52FA5A5C9906166B96026CD0 /* SimpleAlgorythsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleAlgorythsTests.m; sourceTree = "<group>"; };
 		52FA5AA665D5F5CDA62F73CB /* BubbleSort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BubbleSort.h; sourceTree = "<group>"; };
 		52FA5AC05365EF1EEE351477 /* BinarySearch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BinarySearch.m; sourceTree = "<group>"; };
@@ -103,6 +107,8 @@
 				52FA5978B3EB62B1A485D89D /* BinarySearch.h */,
 				52FA58AA23D846FE2BED0909 /* InsertionSort.m */,
 				52FA5C4E569D5F75E9A2FFCE /* InsertionSort.h */,
+				52FA5A2F3EBBF09952629B7A /* SelectionSort.m */,
+				52FA58EAF9D14799286047E8 /* SelectionSort.h */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -263,6 +269,7 @@
 				52FA50EF6A2095F390BD7FFF /* BubbleSort.m in Sources */,
 				52FA51F08F9EF7A09372D054 /* BinarySearch.m in Sources */,
 				52FA55419E1129EE7F0E8E8D /* InsertionSort.m in Sources */,
+				52FA55EDB057CC927CAA9ABB /* SelectionSort.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +282,7 @@
 				52FA54046AC3FF73C36C1E00 /* BubbleSort.m in Sources */,
 				52FA5D8FBC4463C73FAB76C9 /* BinarySearch.m in Sources */,
 				52FA5858FF6C1FF75F00CC1C /* InsertionSort.m in Sources */,
+				52FA5B2A7FF73BDDDC76CECE /* SelectionSort.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

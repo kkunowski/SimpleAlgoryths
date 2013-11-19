@@ -23,37 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BubbleSort.m" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BubbleSort.m">
+      <file leaf-file-name="SimpleAlgorythsTests.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleAlgorythsTests/SimpleAlgorythsTests.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="26" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0" vertical-offset="67" max-vertical-offset="675">
-              <folding />
+            <state line="102" column="30" selection-start="2584" selection-end="2584" vertical-scroll-proportion="-0.7277487" vertical-offset="1808" max-vertical-offset="2265">
+              <folding>
+                <element signature="e#166#191#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearch.m" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BinarySearch.m">
+      <file leaf-file-name="SelectionSort.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SelectionSort.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="6" selection-start="180" selection-end="180" vertical-scroll-proportion="0.30921054" vertical-offset="7" max-vertical-offset="615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertionSort.m" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InsertionSort.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="645">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuickSort.m" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QuickSort.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="10" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="960">
+            <state line="28" column="1" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0" vertical-offset="158" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -73,15 +57,18 @@
         <option value="$PROJECT_DIR$/BubbleSort.h" />
         <option value="$PROJECT_DIR$/BubbleSort.m" />
         <option value="$PROJECT_DIR$/BinarySearch.h" />
-        <option value="$PROJECT_DIR$/QuickSort.m" />
         <option value="$PROJECT_DIR$/InsertionSort.h" />
-        <option value="$PROJECT_DIR$/SimpleAlgorythsTests/SimpleAlgorythsTests.m" />
         <option value="$PROJECT_DIR$/InsertionSort.m" />
         <option value="$PROJECT_DIR$/BinarySearch.m" />
+        <option value="$PROJECT_DIR$/QuickSort.m" />
+        <option value="$PROJECT_DIR$/SelectionSort.h" />
+        <option value="$PROJECT_DIR$/SimpleAlgorythsTests/SimpleAlgorythsTests.m" />
+        <option value="$PROJECT_DIR$/SelectionSort.m" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="26" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="705" />
@@ -255,23 +242,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="705" extended-state="6" />
+    <frame x="26" y="22" width="1280" height="705" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5110063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.67673177" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.6446541" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44968554" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3232682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3553459" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5115453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -287,24 +274,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/QuickSort.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="24" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="960">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BubbleSort.m">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="45" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="675">
@@ -335,9 +308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/QuickSort.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="179" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="179" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BubbleSort.h">
@@ -355,30 +326,14 @@
         <state line="405" column="11" selection-start="16032" selection-end="16032" vertical-scroll-proportion="0.0" vertical-offset="5897" max-vertical-offset="7095" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleAlgorythsTests/SimpleAlgorythsTests.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="44" selection-start="2147" selection-end="2147" vertical-scroll-proportion="0.53824365" vertical-offset="1040" max-vertical-offset="1470">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InsertionSort.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="37" selection-start="220" selection-end="220" vertical-scroll-proportion="0.3084112" vertical-offset="0" max-vertical-offset="535">
-          <folding />
-        </state>
+        <state line="11" column="37" selection-start="220" selection-end="220" vertical-scroll-proportion="0.3084112" vertical-offset="0" max-vertical-offset="535" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InsertionSort.m">
+    <entry file="file://$PROJECT_DIR$/SelectionSort.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QuickSort.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="10" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="960">
+        <state line="13" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <folding />
         </state>
       </provider>
@@ -392,8 +347,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearch.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="6" selection-start="180" selection-end="180" vertical-scroll-proportion="0.30921054" vertical-offset="7" max-vertical-offset="615">
+        <state line="13" column="6" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="615">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InsertionSort.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="4" selection-start="189" selection-end="228" vertical-scroll-proportion="0.057591625" vertical-offset="233" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickSort.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="77" selection-start="452" selection-end="1296" vertical-scroll-proportion="1.0994765" vertical-offset="300" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelectionSort.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="1" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0" vertical-offset="158" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleAlgorythsTests/SimpleAlgorythsTests.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="30" selection-start="2584" selection-end="2584" vertical-scroll-proportion="-0.7277487" vertical-offset="1808" max-vertical-offset="2265">
+          <folding>
+            <element signature="e#166#191#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
